@@ -157,8 +157,8 @@ For large arrays (e.g., `N = 10^5`) with large values (e.g., `A[i] = 10^9`), the
 
 | # | Problem | Difficulty |
 |---|--------|------------|
-| 1 | [Problem 1](#) | Easy |
-| 2 | [Problem 2](#) | Easy |
+| 1 | [Problem 1](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |
+| 2 | [Problem 2](https://leetcode.com/problems/running-sum-of-1d-array/description/) | Easy |
 | 3 | [Problem 3](#) | Medium |
 | 4 | [Problem 4](#) | Medium |
 | 5 | [Problem 5](#) | Hard |
